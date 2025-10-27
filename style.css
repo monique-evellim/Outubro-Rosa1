@@ -1,17 +1,3 @@
-/* Estilo básico para o corpo da página */
-body {
-    font-family: sans-serif;
-    text-align: center;
-    padding: 50px;
-}
-
-/* Estilo para o link */
-a {
-    color: green; /* Muda a cor do texto do link */
-    font-size: 24px; /* Aumenta o tamanho */
-    text-decoration: none; /* Remove o sublinhado */
-}
-
-a:hover {
-    text-decoration: underline; /* Adiciona o sublinhado ao passar o mouse */
+body{
+    background-color: rgba(204, 64, 204, 0.877);
 }
